@@ -1,0 +1,6 @@
+terraform.exe
+test.json
+terraform.tfstate.backup
+terraform.tfstate
+.terraform
+.terraform.lock.hcl

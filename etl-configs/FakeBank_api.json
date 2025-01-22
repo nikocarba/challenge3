@@ -1,0 +1,10 @@
+{
+    "rename_cols": {
+        "category": "categoria",
+        "credit": "gasto_credito",
+        "debit": "gasto_debito",
+        "description": "cliente",
+        "id": "id_transaccion",
+        "transactiondate": "fecha_transaccion"
+    }
+}
