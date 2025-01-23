@@ -19,6 +19,8 @@ This project provisions the following AWS resources:
 - IAM roles and policies: To manage permissions
 - AWS Glue: To orchestrate the ETL process
 - CloudWatch: For logging and monitoring
+- Terraform: For deploying resources in AWS through IaC
+- Athena: For querying data
 
 ![image](https://github.com/user-attachments/assets/14ca3a80-36c9-4c4a-929b-1b463ab1060a)
 
