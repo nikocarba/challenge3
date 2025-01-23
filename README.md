@@ -143,7 +143,7 @@ This project provisions the following AWS resources:
 3. **Monitor the process:**
    Use CloudWatch to monitor the logs and ensure the data loading process completes successfully.
 
-4. **Validate data in s#:**
+4. **Validate data in s3:**
    Once the job finished executing, validate data in Snowflake using the following queries:
    ```sql
    -- Count the number of rows in the table
