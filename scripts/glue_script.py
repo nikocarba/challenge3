@@ -116,6 +116,6 @@ df = normalize_dates(df, ['transactiondate'])
 df = rename_col(df, configs['rename_cols'])
 
 # Write data to S3
-write_to_S3(df, 'raw-bucket-test-cenco', 'api_response', 'fakebank', 'default')
+write_to_S3(df, raw_bucket, 'api_response', table_name, 'default')
 
 job.commit()

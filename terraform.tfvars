@@ -1,8 +1,6 @@
-# owner = "ncarballal"
-owner = "cenco"
+owner = "ncarballal"
 
-# project = "dataengineer-challenge"
-project = "test"
+project = "dataengineer-challenge"
 
 raw_table_name = "FakeBank_api"
 
