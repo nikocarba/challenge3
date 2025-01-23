@@ -59,7 +59,8 @@ This project provisions the following AWS resources:
 	                "glue:UpdateJob",
 	                "glue:DeleteJob",
 	                "glue:GetTags",
-	                "glue:GetJob"
+                	"glue:GetJob",
+                	"glue:TagResource"
 	            ],
 	            "Resource": "*"
 	        },
