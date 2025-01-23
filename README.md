@@ -20,7 +20,7 @@ This project provisions the following AWS resources:
 - AWS Glue: To orchestrate the ETL process
 - CloudWatch: For logging and monitoring
 
-![image](https://github.com/user-attachments/assets/acfa01eb-52b1-4000-8dcf-565be16747a0)
+![image](https://github.com/user-attachments/assets/14ca3a80-36c9-4c4a-929b-1b463ab1060a)
 
 ## Setup
 
